@@ -10,6 +10,7 @@ import HomeHero from '../components/HomeHero';
 import Experiencias from '../components/Experiencias';
 import Projetos from '../components/Projetos';
 import Conhecimentos from '../components/Conhecimentos';
+import FormContato from '../components/FormContato';
 import Footer from '../components/Footer';
 import { getPrismicClient } from '../services/prismic';
 import 'aos/dist/aos.css';
@@ -57,6 +58,7 @@ export default function Home({ projetos }: HomeProps) {
         <Experiencias />
         <Projetos projetos={projetos} />
         <Conhecimentos />
+        <FormContato />
       </main>
 
       <Footer />
