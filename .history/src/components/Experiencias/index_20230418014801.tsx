@@ -19,7 +19,7 @@ function Experiencias() {
           description="Pesquisa e desenvolvimento na área de redes | 05/2022 - 07/2022"
         />
         <ExperienciaItem
-          year="UFSM"
+          year="Universidade Federal de Santa Maria"
           title="Bolsista no Núcleo de Tecnologia da Informação"
           description="Manutenção e Suporte em Informática | 02/2021 - 04/2022"
         />

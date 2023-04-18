@@ -26,10 +26,10 @@ function HomeHero() {
           <CodeItem data-aos="zoom-in">
             <span className="purple">Cargo</span> {'\u007B'}
             <div>
-              Função: <span className="blue">Dev Front-end web</span>
+              Função: <span className="blue">Dev Front-end,</span>
             </div>
             <div>
-              Função-2: <span className="blue">Dev Unity</span>
+              Empresa: <span className="blue">Cidade Alta</span>
             </div>
             {'\u007D'}
           </CodeItem>

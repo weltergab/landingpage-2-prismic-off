@@ -19,14 +19,14 @@ function Experiencias() {
           description="Pesquisa e desenvolvimento na área de redes | 05/2022 - 07/2022"
         />
         <ExperienciaItem
-          year="UFSM"
-          title="Bolsista no Núcleo de Tecnologia da Informação"
-          description="Manutenção e Suporte em Informática | 02/2021 - 04/2022"
+          year="2021"
+          title="Dev Frondsa dsa t-end"
+          description="Lorem idsadas psum dolor sit amet, consectetur adipiscing elit. Aliquam"
         />
         <ExperienciaItem
-          year="Vulcabras Azaleia"
-          title="Jovem Aprendiz - SENAI"
-          description="Assistente administrativo | 02/2018 - 12/2018"
+          year="2020"
+          title="Dev Front-end"
+          description="Lorem ipsumdsada  dolor sit amet, consectetur adipiscing elit. Aliquam"
         />
       </section>
     </Container>

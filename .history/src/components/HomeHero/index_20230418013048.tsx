@@ -28,9 +28,9 @@ function HomeHero() {
             <div>
               Função: <span className="blue">Dev Front-end web</span>
             </div>
-            <div>
-              Função-2: <span className="blue">Dev Unity</span>
-            </div>
+            {/* <div>
+              Empresa: <span className="blue">Cidade Alta</span>
+            </div> */}
             {'\u007D'}
           </CodeItem>
         </InfosContainer>
