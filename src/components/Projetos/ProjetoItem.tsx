@@ -16,7 +16,7 @@ export default function ProjetoItem({ title, type, slug, img }: ProjetoProps) {
         <div className="overlay" />
         <div className="text">
           <h1>{title}</h1>
-          <h2>- {type}</h2>
+          <h2>{type}</h2>
         </div>
       </section>
       <button type="button">
