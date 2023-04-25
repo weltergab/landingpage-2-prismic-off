@@ -5,10 +5,7 @@ import { Container } from './styles';
 function Experiencias() {
   return (
     <Container>
-      <SectionTitle title="- Site em desenvolvimento -" description="" />
-      <br />
-      <br />
-      <br />
+      <SectionTitle title="Site em desenvolvimento" description="" />
       <br />
       <br />
 

@@ -5,14 +5,16 @@ import { Container } from './styles';
 function Experiencias() {
   return (
     <Container>
-      <SectionTitle title="- Site em desenvolvimento -" description="" />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
+      <SectionTitle title="Site em desenvolvimento" description="" />
+      <p>
+        Links para os projetos hospedados e links para os repositórios serão
+        adicionados. <br />A sessão de projetos é dinâmica com Prismic CMS. Mais
+        sessões serão alteradas para o Prismic.
+      </p>
 
+      <br />
       <SectionTitle title="Experiências" description="" />
+
       <section>
         <ExperienciaItem
           year="InverseVR"

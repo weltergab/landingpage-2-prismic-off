@@ -12,11 +12,8 @@ export function Apresentacao({ children }: ApresentacaoProps) {
       <h1>Site em desenvolvimento</h1>
       <p>
         Links para os projetos hospedados e links para os repositórios serão
-        adicionados. <br />A sessão de projetos é dinâmica com Prismic CMS. Mais
-        sessões serão alteradas para o Prismic.
+        adicionados
       </p>
-
-      <br />
       <h1>Apresentacao</h1>
       {children}
     </Container>
