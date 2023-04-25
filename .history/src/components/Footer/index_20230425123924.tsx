@@ -1,12 +1,12 @@
 import {
-  // AiOutlineTwitter,
+  AiOutlineTwitter,
   AiOutlineGithub,
   AiFillLinkedin
 } from 'react-icons/ai';
 import { Container } from './styles';
 
 function Footer() {
-  function handleRedirect(url: string) {
+  function handleRedirect(url: any) {
     window.open(url);
   }
 
@@ -24,9 +24,9 @@ function Footer() {
           Voltar ao topo
         </button>
         <section>
-          {/* <AiOutlineTwitter
+          <AiOutlineTwitter
             onClick={() => handleRedirect('https://twitter.com')}
-          /> */}
+          />
           <AiOutlineGithub
             onClick={() => handleRedirect('https://github.com/weltergab')}
           />

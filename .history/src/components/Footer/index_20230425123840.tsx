@@ -1,5 +1,5 @@
 import {
-  // AiOutlineTwitter,
+  AiOutlineTwitter,
   AiOutlineGithub,
   AiFillLinkedin
 } from 'react-icons/ai';
@@ -24,18 +24,14 @@ function Footer() {
           Voltar ao topo
         </button>
         <section>
-          {/* <AiOutlineTwitter
+          <AiOutlineTwitter
             onClick={() => handleRedirect('https://twitter.com')}
-          /> */}
+          />
           <AiOutlineGithub
             onClick={() => handleRedirect('https://github.com/weltergab')}
           />
           <AiFillLinkedin
-            onClick={() =>
-              handleRedirect(
-                'https://linkedin.com/in/gabriel-welter-020219238/'
-              )
-            }
+            onClick={() => handleRedirect('https://linkedin.com')}
           />
         </section>
       </div>

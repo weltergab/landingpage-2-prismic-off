@@ -1,5 +1,5 @@
 import {
-  // AiOutlineTwitter,
+  AiOutlineTwitter,
   AiOutlineGithub,
   AiFillLinkedin
 } from 'react-icons/ai';
