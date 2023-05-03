@@ -1,5 +1,7 @@
 # landingpage-prismic
 
+***Em desenvolvimento***
+
 Aprendi a usar o meu CMS favorito!!! PrismicCMS.
 
 Para que o projeto funcione é necessário criar os campos no Prismic e passar as variáveis ambientes - keys.
