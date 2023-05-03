@@ -1,6 +1,6 @@
 # landingpage-prismic
 
--- Em desenvolvimento --
+-- Em desenvolvimento -- (vou mudar muito ainda)
 
 Aprendi a usar o meu CMS favorito!!! PrismicCMS.
 
