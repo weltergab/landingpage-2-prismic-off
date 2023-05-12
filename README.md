@@ -9,4 +9,4 @@ Para que o projeto funcione é necessário criar os campos no Prismic e passar a
 Só roda na versão 16 do node. E na versão do Prismic: @prismicio/client@5.1.0
 O que demorei muito para resolver sksakdkasdsadasjdaskjh
 
-.
+![image](https://github.com/weltergab/landingpage-prismic/assets/62655532/6a0ffa16-c554-4fc5-8124-2f2985f1c388)
