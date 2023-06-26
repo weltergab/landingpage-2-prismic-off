@@ -1,13 +1,13 @@
 # landingpage-prismic
 
 - Em desenvolvimento...
-Hospedajem realizada com o serviço da Vercel: https://gabrielwelter.vercel.app/
+Hospedajem realizada com o serviço da Vercel: https://gabrielwelter.vercel.app/ <br>
 Aprendi a usar o PrismicCMS.
 Para que o projeto funcione é necessário criar os campos no Prismic e passar as variáveis ambientes - keys.
 Só roda na versão 16 do node. E na versão do Prismic: @prismicio/client@5.1.0
 O que demorei muito para resolver sksakdkasdsadasjdaskjh
 
-Projeto realizado com base nos estudos da playlist:
+Projeto realizado com base nos estudos da playlist: <br>
 https://www.youtube.com/watch?v=AyNxLohLVEA&list=PLY_G6KZ7jlfVVYkG5RrkQgNxv7cy7E4FU&pp=iAQB
 <br>JB Dev: https://github.com/GBDev13
 
