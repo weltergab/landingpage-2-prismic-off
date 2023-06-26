@@ -41,9 +41,9 @@ function HomeHero() {
             </CodeItem>
           </InfosContainer>
         </div>
-      </Container>
 
-      <LineBorder />
+        <LineBorder />
+      </Container>
     </>
   );
 }

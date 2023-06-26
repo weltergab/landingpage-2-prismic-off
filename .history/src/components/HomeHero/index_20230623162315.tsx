@@ -42,8 +42,6 @@ function HomeHero() {
           </InfosContainer>
         </div>
       </Container>
-
-      <LineBorder />
     </>
   );
 }

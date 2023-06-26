@@ -83,7 +83,7 @@ export const ItemContainer = styled.div`
       }
 
       p {
-        font-size: 0.8rem;
+        font-size: 0.9rem;
       }
     }
   }
@@ -111,7 +111,7 @@ export const ItemContainer = styled.div`
       }
 
       p {
-        font-size: 0.9rem;
+        font-size: 1rem;
       }
     }
   }

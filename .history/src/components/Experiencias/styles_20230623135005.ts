@@ -54,13 +54,13 @@ export const ItemContainer = styled.div`
 
     p {
       color: ${({ theme }) => theme.textLight};
-      font-size: 0.9rem;
+      font-size: 1rem;
       font-weight: 300;
     }
   }
 
   &:hover > div {
-    filter: brightness(0.8);
+    filter: brightness(1.3);
     transform: translateY(-20px);
   }
 
@@ -83,7 +83,7 @@ export const ItemContainer = styled.div`
       }
 
       p {
-        font-size: 0.8rem;
+        font-size: 0.9rem;
       }
     }
   }
@@ -111,7 +111,7 @@ export const ItemContainer = styled.div`
       }
 
       p {
-        font-size: 0.9rem;
+        font-size: 1rem;
       }
     }
   }

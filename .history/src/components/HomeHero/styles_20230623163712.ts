@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const LineBorder = styled.section`
   width: 100%;
   /* padding-bottom: 8rem; */
-  border-bottom: 3px solid ${({ theme }) => theme.primary};
+  border-bottom: 3px solid #848da0;
 `;
 
 export const Container = styled.section`

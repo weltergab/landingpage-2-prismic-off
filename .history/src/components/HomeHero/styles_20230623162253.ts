@@ -3,7 +3,8 @@ import styled from 'styled-components';
 export const LineBorder = styled.section`
   width: 100%;
   /* padding-bottom: 8rem; */
-  border-bottom: 3px solid ${({ theme }) => theme.primary};
+  border-bottom: 3px solid #848da0;
+  display: block;
 `;
 
 export const Container = styled.section`
@@ -110,7 +111,7 @@ export const CodeItem = styled.pre`
   }
 
   &:hover {
-    filter: brightness(0.8);
+    filter: brightness(1.2);
   }
 
   &:last-child {

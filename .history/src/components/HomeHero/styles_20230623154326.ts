@@ -1,15 +1,8 @@
 import styled from 'styled-components';
 
-export const LineBorder = styled.section`
-  width: 100%;
-  /* padding-bottom: 8rem; */
-  border-bottom: 3px solid ${({ theme }) => theme.primary};
-`;
-
 export const Container = styled.section`
   width: 100%;
   display: flex;
-  flex-direction: row;
   gap: 2rem;
   align-items: center;
   justify-content: center;
@@ -110,7 +103,7 @@ export const CodeItem = styled.pre`
   }
 
   &:hover {
-    filter: brightness(0.8);
+    filter: brightness(1.2);
   }
 
   &:last-child {
