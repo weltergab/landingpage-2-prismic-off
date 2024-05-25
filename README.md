@@ -1,6 +1,6 @@
 # Antiga Landingpage feita com Prismic CMS  
   
-Hospedajem realizada com o serviço da Vercel: https://gabrielwelter.vercel.app/   
+Hospedajem realizada com o serviço da Vercel
 Aprendi a usar o PrismicCMS.  
   
 Para que o projeto funcione é necessário criar os campos no Prismic e passar as variáveis ambientes - keys.  
